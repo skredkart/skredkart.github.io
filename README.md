@@ -1,1 +1,1 @@
-# skredkart.github.io
+# skredkart.no
