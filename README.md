@@ -1,1 +1,1 @@
-# skredkart.no
+# Skredkart for Garmin-klokker
